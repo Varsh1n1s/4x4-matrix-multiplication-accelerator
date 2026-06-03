@@ -124,3 +124,7 @@ Total compute window = **10 clock cycles**.
 
 - **Result readback:** After `0xAA` is received, issue `0x04 <idx>` for each of
   the 16 elements. A simple Python script can automate this.
+
+Results:
+
+![test result](image.png)
